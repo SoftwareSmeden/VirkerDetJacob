@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Ny linje... :)");
         System.out.println("Ny linje... igen igen...");
         System.out.println("Torben snyder i Dying Light 2...");
+        System.out.println("Hej 2Ben...");
     }
 }
