@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Virker det Jacob?");
         System.out.println("Det virker sgu, Torben!");
         // Hej med dig...
+        System.out.println("Elefanthue");
     }
 }
